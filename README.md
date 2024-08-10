@@ -1,4 +1,4 @@
-## Hi there,I'm Soumik Roy! 
+Hi there, I'm Soumik Roy
 I'm a B.Tech student in Engineering Physics at IIT Delhi with a passion for technology
 I'm interested in programming, and keep working on various fun projects.
 I have experience in frontend webdev and current i am working movie recommendation Machine Learning Model and would be happy to find people to collaborate with.
